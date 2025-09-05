@@ -22,3 +22,4 @@ The files only serve as a test and observation.
 ## 💬 Conversations  
 
 1. [First Conversation (German)](https://99fk.github.io/AI-Conversations/pdf/first-conversation.pdf)
+2. [Cat vs Dog (German)](https://99fk.github.io/AI-Conversations/pdf/cat-vs-dog.pdf)
