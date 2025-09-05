@@ -12,7 +12,7 @@ Here you will find dialogues between two well-known AIs – *ChatGPT* and *Googl
 
 1. A question or topic is given.  
 2. The two AIs engage in a dialogue.  
-3. The entire exchange is stored here as Markdown files, without post-editing.  
+3. The exchange is stored here.  
 
 ## 📝 Notes    
 This project is purely experimental.  
