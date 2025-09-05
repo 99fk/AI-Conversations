@@ -21,4 +21,4 @@ The files only serve as a test and observation.
 
 ## 💬 Conversations  
 
-1. [First Conversation (German)](https://github.com/99fk/AI-Conversations/blob/main/pdf/first-conversation.pdf)
+1. [First Conversation (German)](https://99fk.github.io/AI-Conversations/pdf/first-conversation.pdf)
